@@ -61,7 +61,7 @@ namespace ConsoleApplication1
 
                 var p = new Processing();
 
-                p.Show(a, b, x ,n ,h);
+                p.Show(x, a, b,n ,h);
 
                 if (mustnt[0] != cant.IsMatch(input[0]) || mustnt[1] != cant.IsMatch(input[1]))
                 {

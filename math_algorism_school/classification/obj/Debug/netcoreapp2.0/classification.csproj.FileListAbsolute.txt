@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/bin/Debug/netcoreapp2.0/classification.deps.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/bin/Debug/netcoreapp2.0/classification.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/bin/Debug/netcoreapp2.0/classification.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/bin/Debug/netcoreapp2.0/classification.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/bin/Debug/netcoreapp2.0/classification.pdb
+/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/obj/Debug/netcoreapp2.0/classification.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/obj/Debug/netcoreapp2.0/classification.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/obj/Debug/netcoreapp2.0/classification.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/obj/Debug/netcoreapp2.0/classification.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/obj/Debug/netcoreapp2.0/classification.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/obj/Debug/netcoreapp2.0/classification.pdb
