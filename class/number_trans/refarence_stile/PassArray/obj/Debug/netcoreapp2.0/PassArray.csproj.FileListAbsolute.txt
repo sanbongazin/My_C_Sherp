@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/bin/Debug/netcoreapp2.0/PassArray.deps.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/bin/Debug/netcoreapp2.0/PassArray.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/bin/Debug/netcoreapp2.0/PassArray.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/bin/Debug/netcoreapp2.0/PassArray.dll
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/bin/Debug/netcoreapp2.0/PassArray.pdb
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/obj/Debug/netcoreapp2.0/PassArray.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/obj/Debug/netcoreapp2.0/PassArray.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/obj/Debug/netcoreapp2.0/PassArray.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/obj/Debug/netcoreapp2.0/PassArray.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/obj/Debug/netcoreapp2.0/PassArray.dll
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/obj/Debug/netcoreapp2.0/PassArray.pdb

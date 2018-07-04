@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/bin/Debug/netcoreapp2.0/ref_ref.deps.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/bin/Debug/netcoreapp2.0/ref_ref.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/bin/Debug/netcoreapp2.0/ref_ref.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/bin/Debug/netcoreapp2.0/ref_ref.dll
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/bin/Debug/netcoreapp2.0/ref_ref.pdb
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/obj/Debug/netcoreapp2.0/ref_ref.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/obj/Debug/netcoreapp2.0/ref_ref.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/obj/Debug/netcoreapp2.0/ref_ref.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/obj/Debug/netcoreapp2.0/ref_ref.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/obj/Debug/netcoreapp2.0/ref_ref.dll
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/obj/Debug/netcoreapp2.0/ref_ref.pdb

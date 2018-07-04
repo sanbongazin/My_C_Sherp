@@ -1,0 +1,10 @@
+/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.1/bin/Debug/netcoreapp2.0/7.6.1.deps.json
+/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.1/bin/Debug/netcoreapp2.0/7.6.1.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.1/bin/Debug/netcoreapp2.0/7.6.1.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.1/bin/Debug/netcoreapp2.0/7.6.1.dll
+/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.1/bin/Debug/netcoreapp2.0/7.6.1.pdb
+/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.1/obj/Debug/netcoreapp2.0/7.6.1.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.1/obj/Debug/netcoreapp2.0/7.6.1.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.1/obj/Debug/netcoreapp2.0/7.6.1.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.1/obj/Debug/netcoreapp2.0/7.6.1.dll
+/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.1/obj/Debug/netcoreapp2.0/7.6.1.pdb

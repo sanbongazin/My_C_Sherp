@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/Basic/bin/Debug/netcoreapp2.0/Basic.deps.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/Basic/bin/Debug/netcoreapp2.0/Basic.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/Basic/bin/Debug/netcoreapp2.0/Basic.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/Basic/bin/Debug/netcoreapp2.0/Basic.dll
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/Basic/bin/Debug/netcoreapp2.0/Basic.pdb
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/Basic/obj/Debug/netcoreapp2.0/Basic.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/Basic/obj/Debug/netcoreapp2.0/Basic.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/Basic/obj/Debug/netcoreapp2.0/Basic.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/Basic/obj/Debug/netcoreapp2.0/Basic.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/Basic/obj/Debug/netcoreapp2.0/Basic.dll
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/Basic/obj/Debug/netcoreapp2.0/Basic.pdb

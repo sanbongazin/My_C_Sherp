@@ -1,0 +1,10 @@
+/Users/yamamotomasaomi/Documents/C#/class/practice/classfield/bin/Debug/netcoreapp2.0/classfield.deps.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/classfield/bin/Debug/netcoreapp2.0/classfield.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/classfield/bin/Debug/netcoreapp2.0/classfield.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/classfield/bin/Debug/netcoreapp2.0/classfield.dll
+/Users/yamamotomasaomi/Documents/C#/class/practice/classfield/bin/Debug/netcoreapp2.0/classfield.pdb
+/Users/yamamotomasaomi/Documents/C#/class/practice/classfield/obj/Debug/netcoreapp2.0/classfield.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/practice/classfield/obj/Debug/netcoreapp2.0/classfield.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/practice/classfield/obj/Debug/netcoreapp2.0/classfield.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/C#/class/practice/classfield/obj/Debug/netcoreapp2.0/classfield.dll
+/Users/yamamotomasaomi/Documents/C#/class/practice/classfield/obj/Debug/netcoreapp2.0/classfield.pdb

@@ -1,0 +1,10 @@
+/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/bin/Debug/netcoreapp2.0/dogorcat.deps.json
+/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/bin/Debug/netcoreapp2.0/dogorcat.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/bin/Debug/netcoreapp2.0/dogorcat.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/bin/Debug/netcoreapp2.0/dogorcat.dll
+/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/bin/Debug/netcoreapp2.0/dogorcat.pdb
+/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/obj/Debug/netcoreapp2.0/dogorcat.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/obj/Debug/netcoreapp2.0/dogorcat.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/obj/Debug/netcoreapp2.0/dogorcat.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/obj/Debug/netcoreapp2.0/dogorcat.dll
+/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/obj/Debug/netcoreapp2.0/dogorcat.pdb

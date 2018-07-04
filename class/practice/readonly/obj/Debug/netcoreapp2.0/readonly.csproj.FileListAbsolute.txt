@@ -1,0 +1,10 @@
+/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/bin/Debug/netcoreapp2.0/readonly.deps.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/bin/Debug/netcoreapp2.0/readonly.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/bin/Debug/netcoreapp2.0/readonly.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/bin/Debug/netcoreapp2.0/readonly.dll
+/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/bin/Debug/netcoreapp2.0/readonly.pdb
+/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/obj/Debug/netcoreapp2.0/readonly.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/obj/Debug/netcoreapp2.0/readonly.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/obj/Debug/netcoreapp2.0/readonly.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/obj/Debug/netcoreapp2.0/readonly.dll
+/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/obj/Debug/netcoreapp2.0/readonly.pdb

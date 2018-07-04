@@ -1,0 +1,10 @@
+/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/bin/Debug/netcoreapp2.0/classcon.deps.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/bin/Debug/netcoreapp2.0/classcon.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/bin/Debug/netcoreapp2.0/classcon.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/bin/Debug/netcoreapp2.0/classcon.dll
+/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/bin/Debug/netcoreapp2.0/classcon.pdb
+/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/obj/Debug/netcoreapp2.0/classcon.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/obj/Debug/netcoreapp2.0/classcon.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/obj/Debug/netcoreapp2.0/classcon.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/obj/Debug/netcoreapp2.0/classcon.dll
+/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/obj/Debug/netcoreapp2.0/classcon.pdb

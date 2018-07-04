@@ -1,0 +1,10 @@
+/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/bin/Debug/netcoreapp2.0/singleton.deps.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/bin/Debug/netcoreapp2.0/singleton.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/bin/Debug/netcoreapp2.0/singleton.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/bin/Debug/netcoreapp2.0/singleton.dll
+/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/bin/Debug/netcoreapp2.0/singleton.pdb
+/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/obj/Debug/netcoreapp2.0/singleton.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/obj/Debug/netcoreapp2.0/singleton.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/obj/Debug/netcoreapp2.0/singleton.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/obj/Debug/netcoreapp2.0/singleton.dll
+/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/obj/Debug/netcoreapp2.0/singleton.pdb

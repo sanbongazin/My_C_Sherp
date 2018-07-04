@@ -1,0 +1,10 @@
+/Users/yamamotomasaomi/Documents/C#/paiza/sum/bin/Debug/netcoreapp2.0/sum.deps.json
+/Users/yamamotomasaomi/Documents/C#/paiza/sum/bin/Debug/netcoreapp2.0/sum.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/C#/paiza/sum/bin/Debug/netcoreapp2.0/sum.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/C#/paiza/sum/bin/Debug/netcoreapp2.0/sum.dll
+/Users/yamamotomasaomi/Documents/C#/paiza/sum/bin/Debug/netcoreapp2.0/sum.pdb
+/Users/yamamotomasaomi/Documents/C#/paiza/sum/obj/Debug/netcoreapp2.0/sum.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/C#/paiza/sum/obj/Debug/netcoreapp2.0/sum.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/C#/paiza/sum/obj/Debug/netcoreapp2.0/sum.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/C#/paiza/sum/obj/Debug/netcoreapp2.0/sum.dll
+/Users/yamamotomasaomi/Documents/C#/paiza/sum/obj/Debug/netcoreapp2.0/sum.pdb

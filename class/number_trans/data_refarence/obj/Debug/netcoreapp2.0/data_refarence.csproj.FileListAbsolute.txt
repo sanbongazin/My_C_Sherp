@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/data_refarence/bin/Debug/netcoreapp2.0/data_refarence.deps.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/data_refarence/bin/Debug/netcoreapp2.0/data_refarence.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/data_refarence/bin/Debug/netcoreapp2.0/data_refarence.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/data_refarence/bin/Debug/netcoreapp2.0/data_refarence.dll
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/data_refarence/bin/Debug/netcoreapp2.0/data_refarence.pdb
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/data_refarence/obj/Debug/netcoreapp2.0/data_refarence.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/data_refarence/obj/Debug/netcoreapp2.0/data_refarence.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/data_refarence/obj/Debug/netcoreapp2.0/data_refarence.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/data_refarence/obj/Debug/netcoreapp2.0/data_refarence.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/data_refarence/obj/Debug/netcoreapp2.0/data_refarence.dll
+/Users/yamamotomasaomi/Documents/C#/class/number_trans/data_refarence/obj/Debug/netcoreapp2.0/data_refarence.pdb
