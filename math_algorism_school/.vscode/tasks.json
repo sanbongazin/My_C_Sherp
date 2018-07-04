@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/math_algorism_school.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

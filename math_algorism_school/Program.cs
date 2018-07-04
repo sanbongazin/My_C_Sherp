@@ -15,7 +15,8 @@ namespace ConsoleApplication1
             for (; ; )
             {
                 Console.Write("積分区間を半角スペースで区切って入力:");
-                string input_before = Console.ReadLine();
+                Console.WriteLine(args[0]);//コンソールで見栄えをよくするために使いました。
+                string input_before = args[0];//Console.ReadLine()の代わりに使用。
                 var cant_before = new Regex(@"[0-9]\s{1}[0-9]");
                 var mustnt_before = false;
 
@@ -34,7 +35,8 @@ namespace ConsoleApplication1
                 double b = double.Parse(input[1]);
                 double x = 0;
                 Console.Write("分割数を入力:");
-                int n = int.Parse(Console.ReadLine());
+                Console.WriteLine(args[1]);//コンソールで見栄えをよくするために使いました。
+                int n = int.Parse(args[1]);//Console.ReadLine());
                 double h = (b - a) / n;
 
                 x = a;
@@ -46,7 +48,8 @@ namespace ConsoleApplication1
                 if (mustnt[0] != cant.IsMatch(input[0]) || mustnt[1] != cant.IsMatch(input[1]))
                 {
                     Console.Write("積分計算を続けますか？続けるにはyを入力");
-                    string select = Console.ReadLine();
+                    Console.WriteLine(args[2]);//コンソールで見栄えをよくするために使いました。
+                    string select = args[2];//Console.ReadLine();
                     if (select == "y")
                     {
                         continue;
@@ -63,27 +66,19 @@ namespace ConsoleApplication1
         {
 
             double s_1 = 0;
-            double s = 0;
 
-            double function_a = Math.Sin(x) / x;
-            double function_b = Math.Sin(x) / x;
+            double function_a = 0; //こちらは、答えを0と定義しました。定義しないと、答えは加算されません。どういう定義かわからなかったので、、こちらは適宜調整が必要かもしれません
+            double function_b = Math.Sin(b) / b;
 
             for (int i = 0; i < n; i++)
             {
-
-
-                s_1 = Math.Sin(x) / x;
-
-                s += s_1;//Math.Sin(x) / x;
-
+                s_1 += Math.Sin(x) / x;
+                    if(Double.IsNaN(s_1)){//こっちは、その定義のなさをカバーするために、一回目のみ、０に直しました。
+                        s_1 = 0;
+                    }
                 x += h;
-                //Console.WriteLine(s_1 + " " + s_2);
-                /*if (i == 2) //d=2の時の表示
-                {
-                    Console.WriteLine(h / 2 * s_1 * s_2);
-                }*/
             }
-            Console.WriteLine(/*"d = {0:D2}: {1,13:F10}", d, */ h / 2 * (function_a + 2 * s + function_b));
+            Console.WriteLine("答えは"+ h / 2 * (function_a + 2 * s_1 + function_b));
             return 0;
         }
     }
