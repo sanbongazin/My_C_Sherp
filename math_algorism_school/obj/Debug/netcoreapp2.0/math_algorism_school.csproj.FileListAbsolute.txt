@@ -3,7 +3,6 @@
 /Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/bin/Debug/netcoreapp2.0/math_algorism_school.runtimeconfig.dev.json
 /Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/bin/Debug/netcoreapp2.0/math_algorism_school.dll
 /Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/bin/Debug/netcoreapp2.0/math_algorism_school.pdb
-/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/obj/Debug/netcoreapp2.0/math_algorism_school.csprojResolveAssemblyReference.cache
 /Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/obj/Debug/netcoreapp2.0/math_algorism_school.csproj.CoreCompileInputs.cache
 /Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/obj/Debug/netcoreapp2.0/math_algorism_school.AssemblyInfoInputs.cache
 /Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/obj/Debug/netcoreapp2.0/math_algorism_school.AssemblyInfo.cs

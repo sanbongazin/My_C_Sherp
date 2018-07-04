@@ -10,8 +10,6 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            for (; ; )
-            {
                 Console.Write("積分区間を半角スペースで区切って入力:");
                 Console.WriteLine(args[0]);//コンソールで見栄えをよくするために使いました。
                 string input_before = args[0];//Console.ReadLine()の代わりに使用。
@@ -34,7 +32,6 @@ namespace ConsoleApplication1
 
                     Function(x, a, b, n, h);
 
-            }
 
         }
         static void Function( double x, double a, double b, double n, double h)
