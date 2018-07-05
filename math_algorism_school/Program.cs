@@ -39,14 +39,14 @@ namespace ConsoleApplication1
 
             double s_1 = 0;
 
-            double function_a = 0; //こちらは、答えを0と定義しました。定義しないと、答えは加算されません。どういう定義かわからなかったので、、こちらは適宜調整が必要かもしれません
+            double function_a = 1; //こちらは、答えを0と定義しました。定義しないと、答えは加算されません。どういう定義かわからなかったので、、こちらは適宜調整が必要かもしれません
             double function_b = Math.Sin(b) / b;
 
             for (int i = 0; i < n; i++)
             {
                 s_1 += Math.Sin(x) / x;
                     if(Double.IsNaN(s_1)){//こっちは、その定義のなさをカバーするために、一回目のみ、０に直しました。
-                        s_1 = 0;
+                        s_1 = 1;
                     }
                 x += h;
             }
