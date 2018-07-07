@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/sum/sum.csproj",
-      "projectName": "sum",
-      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/sum/sum.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/tanzaku/tanzaku.csproj",
+      "projectName": "tanzaku",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/tanzaku/tanzaku.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/sum/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/tanzaku/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

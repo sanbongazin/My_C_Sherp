@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/C#/teratail/teratail.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/teratail/teratail.csproj",
       "projectName": "teratail",
-      "projectPath": "/Users/yamamotomasaomi/Documents/C#/teratail/teratail.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/teratail/teratail.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/C#/teratail/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/teratail/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
