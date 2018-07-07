@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/GitHub/C#/return/bin/Debug/netcoreapp2.0/return.deps.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/return/bin/Debug/netcoreapp2.0/return.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/return/bin/Debug/netcoreapp2.0/return.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/return/bin/Debug/netcoreapp2.0/return.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/return/bin/Debug/netcoreapp2.0/return.pdb
+/Users/yamamotomasaomi/Documents/GitHub/C#/return/obj/Debug/netcoreapp2.0/return.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/return/obj/Debug/netcoreapp2.0/return.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/return/obj/Debug/netcoreapp2.0/return.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/return/obj/Debug/netcoreapp2.0/return.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/GitHub/C#/return/obj/Debug/netcoreapp2.0/return.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/return/obj/Debug/netcoreapp2.0/return.pdb
