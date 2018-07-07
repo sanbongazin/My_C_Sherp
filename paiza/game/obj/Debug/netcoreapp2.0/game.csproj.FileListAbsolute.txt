@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/game/bin/Debug/netcoreapp2.0/game.deps.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/game/bin/Debug/netcoreapp2.0/game.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/game/bin/Debug/netcoreapp2.0/game.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/game/bin/Debug/netcoreapp2.0/game.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/game/bin/Debug/netcoreapp2.0/game.pdb
+/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/game/obj/Debug/netcoreapp2.0/game.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/game/obj/Debug/netcoreapp2.0/game.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/game/obj/Debug/netcoreapp2.0/game.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/game/obj/Debug/netcoreapp2.0/game.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/game/obj/Debug/netcoreapp2.0/game.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/game/obj/Debug/netcoreapp2.0/game.pdb
