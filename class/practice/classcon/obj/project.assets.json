@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/classcon.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/classcon/classcon.csproj",
       "projectName": "classcon",
-      "projectPath": "/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/classcon.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/classcon/classcon.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/C#/class/practice/classcon/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/classcon/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

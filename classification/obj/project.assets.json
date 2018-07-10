@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/classification.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/classification/classification.csproj",
       "projectName": "classification",
-      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/classification.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/classification/classification.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/math_algorism_school/classification/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/classification/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

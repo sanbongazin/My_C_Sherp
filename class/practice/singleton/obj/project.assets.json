@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/singleton.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/singleton/singleton.csproj",
       "projectName": "singleton",
-      "projectPath": "/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/singleton.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/singleton/singleton.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/C#/class/practice/singleton/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/singleton/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

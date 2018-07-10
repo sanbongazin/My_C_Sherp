@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/PassArray.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/number_trans/refarence_stile/PassArray/PassArray.csproj",
       "projectName": "PassArray",
-      "projectPath": "/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/PassArray.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/number_trans/refarence_stile/PassArray/PassArray.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/C#/class/number_trans/refarence_stile/PassArray/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/number_trans/refarence_stile/PassArray/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

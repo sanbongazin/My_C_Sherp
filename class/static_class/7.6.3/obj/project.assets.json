@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.3/7.6.3.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/static_class/7.6.3/7.6.3.csproj",
       "projectName": "7.6.3",
-      "projectPath": "/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.3/7.6.3.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/static_class/7.6.3/7.6.3.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/C#/class/static_class/7.6.3/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/static_class/7.6.3/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

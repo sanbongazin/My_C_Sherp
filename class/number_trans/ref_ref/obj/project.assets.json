@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/ref_ref.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/number_trans/ref_ref/ref_ref.csproj",
       "projectName": "ref_ref",
-      "projectPath": "/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/ref_ref.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/number_trans/ref_ref/ref_ref.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/C#/class/number_trans/ref_ref/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/number_trans/ref_ref/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

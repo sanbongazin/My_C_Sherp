@@ -1,0 +1,4 @@
+/Users/yamamotomasaomi/Documents/GitHub/C#/popteic/obj/Debug/netcoreapp2.0/popteic.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/popteic/obj/Debug/netcoreapp2.0/popteic.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/popteic/obj/Debug/netcoreapp2.0/popteic.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/popteic/obj/Debug/netcoreapp2.0/popteic.AssemblyInfo.cs

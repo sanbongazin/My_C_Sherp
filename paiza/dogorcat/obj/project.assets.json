@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/dogorcat.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/dogorcat/dogorcat.csproj",
       "projectName": "dogorcat",
-      "projectPath": "/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/dogorcat.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/dogorcat/dogorcat.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/C#/paiza/dogorcat/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/dogorcat/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

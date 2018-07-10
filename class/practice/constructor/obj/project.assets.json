@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/C#/class/practice/constructor/constructor.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/constructor/constructor.csproj",
       "projectName": "constructor",
-      "projectPath": "/Users/yamamotomasaomi/Documents/C#/class/practice/constructor/constructor.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/constructor/constructor.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/C#/class/practice/constructor/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/constructor/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

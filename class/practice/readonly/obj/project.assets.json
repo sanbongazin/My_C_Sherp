@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/readonly.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/readonly/readonly.csproj",
       "projectName": "readonly",
-      "projectPath": "/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/readonly.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/readonly/readonly.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/C#/class/practice/readonly/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/readonly/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

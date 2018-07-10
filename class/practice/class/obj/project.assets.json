@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/C#/class/practice/class/class.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/class/class.csproj",
       "projectName": "class",
-      "projectPath": "/Users/yamamotomasaomi/Documents/C#/class/practice/class/class.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/class/class.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/C#/class/practice/class/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/class/practice/class/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

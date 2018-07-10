@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/C#/paiza/medarist/medarist.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/medarist/medarist.csproj",
       "projectName": "medarist",
-      "projectPath": "/Users/yamamotomasaomi/Documents/C#/paiza/medarist/medarist.csproj",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/medarist/medarist.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/C#/paiza/medarist/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/paiza/medarist/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
