@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/fileblocker.csproj"
+                "${workspaceFolder}/touple.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

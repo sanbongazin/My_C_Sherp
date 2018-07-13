@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/fileblocker/fileblocker.csproj",
-      "projectName": "fileblocker",
-      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/fileblocker/fileblocker.csproj",
+      "projectUniqueName": "/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/touple.csproj",
+      "projectName": "touple",
+      "projectPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/touple.csproj",
       "packagesPath": "/Users/yamamotomasaomi/.nuget/packages/",
-      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/fileblocker/obj/",
+      "outputPath": "/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

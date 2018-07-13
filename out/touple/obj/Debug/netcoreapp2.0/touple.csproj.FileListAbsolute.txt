@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/bin/Debug/netcoreapp2.0/touple.deps.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/bin/Debug/netcoreapp2.0/touple.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/bin/Debug/netcoreapp2.0/touple.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/bin/Debug/netcoreapp2.0/touple.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/bin/Debug/netcoreapp2.0/touple.pdb
+/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/obj/Debug/netcoreapp2.0/touple.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/obj/Debug/netcoreapp2.0/touple.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/obj/Debug/netcoreapp2.0/touple.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/obj/Debug/netcoreapp2.0/touple.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/obj/Debug/netcoreapp2.0/touple.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/out/touple/obj/Debug/netcoreapp2.0/touple.pdb
