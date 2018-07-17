@@ -16,19 +16,26 @@ namespace blackjack
 
         public (int dealer, int player) Hard_hand_Exception(int dealer, int player){
            var card = new Card();
+           Console.WriteLine("ヒットを宣言");
            dealer += card.Generate_card();
            player += card.Generate_card();
 
            return (dealer,player);
         }
 
+        public  void Hard_Hand_stayer(){
+            Console.WriteLine("ステイを選択");
+            return;
+            }
     }
 
+
+
     class Card{
-        System.Random rnd = new System.Random(10);
+        System.Random rnd = new System.Random(1969);
         
         public int Generate_card(){
-            return rnd.Next(11);
+            return rnd.Next(1,11);
         }
     class Program
     {   
@@ -78,6 +85,7 @@ namespace blackjack
             Console.WriteLine("プレイヤーのカードは:" + player);
 
             var brain = new Player_Brain();
+
             player += card.Generate_card();
             dealer += card.Generate_card();
             Console.WriteLine("2枚目。プレイヤーのカード合計は:" + player);
@@ -100,6 +108,12 @@ namespace blackjack
 
                 Console.WriteLine("3枚目プレイヤーのカード合計は:" + answer.player);
                 Console.WriteLine("3枚目ディーラーのカード合計は:" + answer.dealer);
+            }else if ((player == 12 && dealer >=4 && dealer <= 6) || (player >=13 && player <= 16 && dealer >= 7) || player >= 17){
+                brain.Hard_Hand_stayer();
+                BC.Burst_check(dealer, player,i);
+
+                Console.WriteLine("3枚目プレイヤーのカード合計は:" + player);
+                Console.WriteLine("3枚目ディーラーのカード合計は:"+dealer);
             }
 
         }
