@@ -32,7 +32,7 @@ namespace blackjack
 
 
     class Card{
-        System.Random rnd = new System.Random(1969);
+        System.Random rnd = new System.Random();
         
         public int Generate_card(){
             return rnd.Next(1,11);
