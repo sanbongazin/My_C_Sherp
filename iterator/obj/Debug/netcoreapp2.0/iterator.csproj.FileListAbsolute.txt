@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/GitHub/C#/iterator/bin/Debug/netcoreapp2.0/iterator.deps.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/iterator/bin/Debug/netcoreapp2.0/iterator.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/iterator/bin/Debug/netcoreapp2.0/iterator.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/iterator/bin/Debug/netcoreapp2.0/iterator.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/iterator/bin/Debug/netcoreapp2.0/iterator.pdb
+/Users/yamamotomasaomi/Documents/GitHub/C#/iterator/obj/Debug/netcoreapp2.0/iterator.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/iterator/obj/Debug/netcoreapp2.0/iterator.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/iterator/obj/Debug/netcoreapp2.0/iterator.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/iterator/obj/Debug/netcoreapp2.0/iterator.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/GitHub/C#/iterator/obj/Debug/netcoreapp2.0/iterator.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/iterator/obj/Debug/netcoreapp2.0/iterator.pdb
