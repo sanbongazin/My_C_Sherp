@@ -1,0 +1,4 @@
+/Users/yamamotomasaomi/Documents/GitHub/C#/MastCondot/obj/Debug/netcoreapp2.0/MastCondot.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/MastCondot/obj/Debug/netcoreapp2.0/MastCondot.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/MastCondot/obj/Debug/netcoreapp2.0/MastCondot.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/MastCondot/obj/Debug/netcoreapp2.0/MastCondot.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/GitHub/C#/tokumeigata/bin/Debug/netcoreapp2.0/tokumeigata.deps.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/tokumeigata/bin/Debug/netcoreapp2.0/tokumeigata.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/tokumeigata/bin/Debug/netcoreapp2.0/tokumeigata.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/tokumeigata/bin/Debug/netcoreapp2.0/tokumeigata.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/tokumeigata/bin/Debug/netcoreapp2.0/tokumeigata.pdb
+/Users/yamamotomasaomi/Documents/GitHub/C#/tokumeigata/obj/Debug/netcoreapp2.0/tokumeigata.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/tokumeigata/obj/Debug/netcoreapp2.0/tokumeigata.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/tokumeigata/obj/Debug/netcoreapp2.0/tokumeigata.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/tokumeigata/obj/Debug/netcoreapp2.0/tokumeigata.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/GitHub/C#/tokumeigata/obj/Debug/netcoreapp2.0/tokumeigata.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/tokumeigata/obj/Debug/netcoreapp2.0/tokumeigata.pdb

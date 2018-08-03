@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/GitHub/C#/mastcon/bin/Debug/netcoreapp2.0/mastcon.deps.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/mastcon/bin/Debug/netcoreapp2.0/mastcon.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/mastcon/bin/Debug/netcoreapp2.0/mastcon.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/mastcon/bin/Debug/netcoreapp2.0/mastcon.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/mastcon/bin/Debug/netcoreapp2.0/mastcon.pdb
+/Users/yamamotomasaomi/Documents/GitHub/C#/mastcon/obj/Debug/netcoreapp2.0/mastcon.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/mastcon/obj/Debug/netcoreapp2.0/mastcon.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/mastcon/obj/Debug/netcoreapp2.0/mastcon.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/mastcon/obj/Debug/netcoreapp2.0/mastcon.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/GitHub/C#/mastcon/obj/Debug/netcoreapp2.0/mastcon.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/mastcon/obj/Debug/netcoreapp2.0/mastcon.pdb
