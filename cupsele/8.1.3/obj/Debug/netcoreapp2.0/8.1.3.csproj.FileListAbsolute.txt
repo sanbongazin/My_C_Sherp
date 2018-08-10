@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/GitHub/C#/cupsele/8.1.3/bin/Debug/netcoreapp2.0/8.1.3.deps.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/cupsele/8.1.3/bin/Debug/netcoreapp2.0/8.1.3.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/cupsele/8.1.3/bin/Debug/netcoreapp2.0/8.1.3.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/cupsele/8.1.3/bin/Debug/netcoreapp2.0/8.1.3.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/cupsele/8.1.3/bin/Debug/netcoreapp2.0/8.1.3.pdb
+/Users/yamamotomasaomi/Documents/GitHub/C#/cupsele/8.1.3/obj/Debug/netcoreapp2.0/8.1.3.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/cupsele/8.1.3/obj/Debug/netcoreapp2.0/8.1.3.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/cupsele/8.1.3/obj/Debug/netcoreapp2.0/8.1.3.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/cupsele/8.1.3/obj/Debug/netcoreapp2.0/8.1.3.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/GitHub/C#/cupsele/8.1.3/obj/Debug/netcoreapp2.0/8.1.3.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/cupsele/8.1.3/obj/Debug/netcoreapp2.0/8.1.3.pdb
