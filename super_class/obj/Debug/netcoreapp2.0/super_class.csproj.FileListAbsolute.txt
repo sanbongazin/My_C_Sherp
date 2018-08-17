@@ -1,0 +1,11 @@
+/Users/yamamotomasaomi/Documents/GitHub/C#/super_class/obj/Debug/netcoreapp2.0/super_class.csprojResolveAssemblyReference.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/super_class/obj/Debug/netcoreapp2.0/super_class.csproj.CoreCompileInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/super_class/obj/Debug/netcoreapp2.0/super_class.AssemblyInfoInputs.cache
+/Users/yamamotomasaomi/Documents/GitHub/C#/super_class/obj/Debug/netcoreapp2.0/super_class.AssemblyInfo.cs
+/Users/yamamotomasaomi/Documents/GitHub/C#/super_class/bin/Debug/netcoreapp2.0/super_class.deps.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/super_class/bin/Debug/netcoreapp2.0/super_class.runtimeconfig.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/super_class/bin/Debug/netcoreapp2.0/super_class.runtimeconfig.dev.json
+/Users/yamamotomasaomi/Documents/GitHub/C#/super_class/bin/Debug/netcoreapp2.0/super_class.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/super_class/bin/Debug/netcoreapp2.0/super_class.pdb
+/Users/yamamotomasaomi/Documents/GitHub/C#/super_class/obj/Debug/netcoreapp2.0/super_class.dll
+/Users/yamamotomasaomi/Documents/GitHub/C#/super_class/obj/Debug/netcoreapp2.0/super_class.pdb
